@@ -1,6 +1,5 @@
 {
   "settingsInheritedFrom": "jesse-ghe-2/whitesource-config@main",
-  "scanSettings":
-  { "commandTimeout": 1800
-  }
+  "scanSettings": {
+    "configMode": "LOCAL"
 }
