@@ -2,4 +2,5 @@
   "settingsInheritedFrom": "jesse-ghe-2/whitesource-config@main",
   "scanSettings": {
     "configMode": "LOCAL"
+  }
 }
